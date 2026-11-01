@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/y0r5atq8oe3j8yrhgglvejpf)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> an decoder for music, and it display it in some cool ways!
+> an decoder for music, and it display it in some cool ways! it has got two displays 1 with led matrix(it control itself)and the other is a RBG 3.5inch display
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
