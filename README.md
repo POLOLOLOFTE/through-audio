@@ -25,6 +25,10 @@ as i sayed in the other projects i love music and it's a partof me, and have the
 
 ## Input and Output
 it has got only input:
-Jack
-16V screw connector
-and USB (Esp32)
+- Jack
+- 16V screw connector
+- and USB (Esp32)
+
+## Settings
+it's not that complex but if you use the Default firmware you got the touch on the main display and the button for changing the mode on the odter matrix display
+as the Default code you have 3 buttons that you can press 1 is for the theme (colors) one is for the mode that you want(Oscilloscope, equalizor, equalizor matrix like)
