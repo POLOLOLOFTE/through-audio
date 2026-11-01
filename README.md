@@ -32,3 +32,12 @@ it has got only input:
 ## Settings
 it's not that complex but if you use the Default firmware you got the touch on the main display and the button for changing the mode on the odter matrix display
 as the Default code you have 3 buttons that you can press 1 is for the theme (colors) one is for the mode that you want(Oscilloscope, equalizor, equalizor matrix like)
+
+# Gallery:
+
+<img width="302" height="345" alt="Screenshot 2026-11-01 105819" src="https://github.com/user-attachments/assets/27c54adf-59f1-4122-aa23-779f07d42280" />
+<img width="854" height="551" alt="Screenshot 2026-11-01 095814" src="https://github.com/user-attachments/assets/7c8f602d-0107-4e0e-8668-218f0f48caef" />
+<img width="978" height="656" alt="Screenshot 2026-10-31 185924" src="https://github.com/user-attachments/assets/be6dd6ff-2d11-4475-b6e4-c513140cd9e2" />
+<img width="1840" height="812" alt="Screenshot 2026-10-29 175616" src="https://github.com/user-attachments/assets/72f0e739-891e-422e-a634-a68ef14c5d41" />
+<img width="1045" height="486" alt="Screenshot 2026-11-01 110322" src="https://github.com/user-attachments/assets/57497b03-f27e-41d0-aa86-590374a72a99" />
+<img width="727" height="388" alt="Screenshot 2026-11-01 110645" src="https://github.com/user-attachments/assets/3bacce60-16fb-4172-8f5e-4de314ea404e" />
